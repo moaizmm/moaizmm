@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moaiz Malik</h1>
 <h3 align="center">A passionate computer scientist from UK keen to make my mark in the cloud industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://azure.github.io/actions/img/automate_workflows_gif.gif">
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/MicrosoftCloud-microsoft-badge-certified-CBFOxlDsuAaozaE1D5">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1mbW9lM2hpb3pveG5hOGF2ajd3aXJvbXU4YWU4dnU1YzdhZDB5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaizmm" alt="moaizmm" /></a> </p>
 
